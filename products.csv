@@ -1,0 +1,14 @@
+sku,name,category,unit,unit_cost,selling_price,shelf_life_days,ideal_storage_temp
+SKU-DAIRY-001,Organic Whole Milk (1 Gallon),Dairy,jug,2.40,4.29,10,38°F
+SKU-DAIRY-002,Greek Yogurt Plain (32 oz),Dairy,tub,1.90,3.99,14,38°F
+SKU-DAIRY-003,Artisan Sharp Cheddar (8 oz),Dairy,block,2.75,5.49,30,40°F
+SKU-PROD-001,Organic Strawberries (1 lb),Produce,clamshell,1.80,3.99,5,34°F
+SKU-PROD-002,Hass Avocados (Pack of 4),Produce,bag,2.20,4.49,7,45°F
+SKU-PROD-003,Baby Spinach (16 oz),Produce,tub,1.60,3.49,6,34°F
+SKU-PROD-004,Ripe Yellow Bananas (bunch),Produce,bunch,0.50,1.29,6,55°F
+SKU-BAKE-001,Rustic Sourdough Boule,Bakery,loaf,1.50,4.99,4,Room Temp
+SKU-BAKE-002,French Artisan Baguette,Bakery,loaf,0.90,2.79,2,Room Temp
+SKU-BAKE-003,Blueberry Muffins (4-pack),Bakery,pack,1.95,4.49,5,Room Temp
+SKU-MEAT-001,Boneless Skinless Chicken Breast (2 lb),Meat & Seafood,tray,5.20,9.99,5,32°F
+SKU-MEAT-002,Wild Caught Atlantic Salmon Fillet (1 lb),Meat & Seafood,tray,6.50,12.99,4,30°F
+SKU-MEAT-003,Grass-Fed Ground Beef 85/15 (1 lb),Meat & Seafood,pack,3.80,6.99,5,32°F

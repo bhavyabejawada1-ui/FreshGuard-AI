@@ -1,0 +1,4 @@
+store_id,store_name,city,address,manager
+STORE-101,FreshGuard Metro Downtown,San Francisco,"450 Market St, Financial District",Elena Vance
+STORE-102,FreshGuard Uptown Market,San Francisco,"1820 Fillmore St, Pacific Heights",Marcus Chen
+STORE-103,FreshGuard Bayview Express,Oakland,"2100 Broadway, Uptown",Priya Sharma

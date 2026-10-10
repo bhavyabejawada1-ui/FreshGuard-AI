@@ -1,0 +1,26 @@
+# Node & Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.local
+.npm/
+
+# Python & Backend
+backend/__pycache__/
+backend/*/__pycache__/
+backend/*/*/__pycache__/
+*.py[cod]
+*$py.class
+backend/.pytest_cache/
+.pytest_cache/
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Operating System & IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
